@@ -1,0 +1,18 @@
+.dmaps-metabox-label {
+	width:100%;
+	float:left;
+	font-weight: bold;
+	margin-top:10px;
+}
+
+.dmaps-metabox-input {
+	width:100%;
+}
+
+.dmaps-metabox-description {
+	font-style: italic;
+	width:100%;
+	margin-top:0;
+	margin-bottom:10px;
+	opacity:0.8;
+}
